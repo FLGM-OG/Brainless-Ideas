@@ -1,0 +1,15 @@
+What if there was an AI, run by a smart model such as GPT5 or Claude 4.5 Sonnet, that could trade crypto and stocks for you?  It would find Long TP's, Short TP's, and would tell you where to buy/sell? 
+I attempted to make one at one point but never got it working, and i've never had money, let alone crypto to really trade with regardless.
+
+You could turn it into a user-friendly interface, that people can pay a subscription to use.  You'd have to make sure it exits every trade before it just stops because the user hasn't paid obviously, but
+it could be a subscription based site.  A lot of people who don't know how to trade would pay for that, thinking its some sort of "get-rich-quick" type of website, although it would technically be able to make
+quite a lot of profit, unless you wagered your life savings on it your not gonna get particularly rich off the bot. 
+
+Also, with you being the creator, you could charge that subscription based fee, and take the profits and use them to test the bot, let it run, and make you money while it also makes other people money, as they 
+pay for your product.  It's a win-win situation for you and the user.  They pay a small fee, you get the profit, and they profit off the bot.  You'd have to ensure its not guaranteed that they make anything,
+but other than that theres really not many implications.  You would have to have a strict TOS, and probably a tigher privacy policy but that's really it.
+
+It violates, technically, multiple US laws, although you can get by some with a license.  You can get by a lot of them pretty easily, however the only problem is it violates some federal securities laws.
+I feel like you could argue those pine scripts on trading view do the same thing other than it doesn't trade for you, it gives advice without a license so that makes no sense.
+
+Theres todays thought.  - FLGM-OG
