@@ -1,0 +1,5 @@
+What if someone were to make a website or app, or both, that you can connect any bank to, any crypto wallet to, and it will add up all your accounts balances and show you your current full balance?  It would also have like 
+the expenses on the bottom, so like recent purchases with categories etc.  Then it would be fire if it had some sort of graph showing where your money goes and how you should save or invest it to maximize it.  This
+would go so well with some sort of partners and good marketing, since most people have at least 2 banking apps, and most people with crypto have more than 3 wallets, so it would be inanely useful. You could charge a small fee
+to import more than 2 bank accounts and wallets at one time, and over time add other features and more paid features.  Don't make it annoying like the average paywall, just make sure the user knows they have the option and can ignore
+it if they want to.  
