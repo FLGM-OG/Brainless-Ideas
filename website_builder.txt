@@ -1,0 +1,17 @@
+Blasting music as i write this.
+
+Buisness idea: A https://loveable.dev clone.  You can get a local model like Ollama on it, you could just pay for google gemini like a bum, you could take deepseek, or use something like openrouter.
+Hell even vercel hasa free AI API you could mess around with.
+
+Regardless, I've already made the whole thing, I justgenuinly can't get the damn AI to work.
+
+Since you're (probably) not paying anything for the site, you can charge genuinly whatever you want.  It can be free for all you care.  It can be a dollar a month subscription and thats profit to you.
+Obvously once you get a .com or .dev etc. domain, it's gonna cost money, but other than that its a really cheap way to get actual money.
+
+Clearly, with things like lovable, base44, and even readdy as your competiton, the market for it is gonna be tough.  You can generalize the marketing to just anyone who wants to code or make a website,
+but getting people to use your option is a whole different story.  I'd say make a 100% free version thats limited, but its still free, and people can use it without quotas on chats.  Make apaid cheap but not
+too cheap, and give them a bunch ofg extra features, just to make it more udable, and to make it seem glamorous and worth the short samount of money.
+
+I wrote this without my glasses on so I can't see what im typing, please ignore any typos
+
+- FLGM-OG
