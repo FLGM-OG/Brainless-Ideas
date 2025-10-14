@@ -1,0 +1,5 @@
+A website that looks at the market, lime lets say you look at 20 stocks and 20 coins.  It will look at what it was like over the last 24 hours, and will tell you based on live information weather you should buy, sell, or do neither.
+It will detect things like bearish, bullish, volume, pressure, price, etc.  It will look at different time windows like the 1 minute the 5 minute and teh 10 minute.  It will find whats right for you and help you trade them.
+You can use tradingview's embeds or even find jsut a simple API to do most of this.
+
+- FLGM-OG
